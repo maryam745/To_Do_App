@@ -27,11 +27,28 @@ It allows users to add tasks, update their status, delete tasks, and switch betw
 1. Install Flet:
    ```bash
    pip install flet
-# Run the app:
-- python main.py
+````
+
+2. Run the app:
+
+   ```bash
+   python main.py
+   ```
+
+---
+
 ## 📁 Project Structure
-- project-folder/
--- │── main.py
--- │── README.md
+
+```
+project-folder/
+│── main.py
+│── README.md
+```
+
+---
+
 ## 👨‍💻 Developer
--Maryam Nazar
+
+**Maryam Nazar**
+
+```

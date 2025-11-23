@@ -26,7 +26,7 @@ It allows users to add tasks, update their status, delete tasks, and switch betw
 1. Install Flet:
    ```bash
    pip install flet
-````
+
 
 2. Run the app:
 
@@ -50,4 +50,3 @@ project-folder/
 
 **Maryam Nazar**
 
-```

@@ -3,7 +3,7 @@
 A clean and functional To-Do Application built using **Python Flet**.  
 It allows users to add tasks, update their status, delete tasks, and switch between light/dark themes — all inside a simple and elegant UI.
 
----
+
 
 ## ✨ Features
 
@@ -13,14 +13,13 @@ It allows users to add tasks, update their status, delete tasks, and switch betw
 - Light & Dark theme toggle  
 - Responsive and clean UI built with Flet  
 
----
 
 ## 🛠️ Tech Stack
 
 - **Python**
 - **Flet Framework**
 
----
+
 
 ## 🚀 How to Run the Project
 
@@ -35,7 +34,7 @@ It allows users to add tasks, update their status, delete tasks, and switch betw
    python main.py
    ```
 
----
+
 
 ## 📁 Project Structure
 
@@ -45,7 +44,7 @@ project-folder/
 │── README.md
 ```
 
----
+
 
 ## 👨‍💻 Developer
 
